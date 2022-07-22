@@ -1,0 +1,32 @@
+{
+    "name": "jxx0410/xpanapi",
+    "description": "百度网盘开放SDK",
+    "keywords": [
+        "openapitools",
+        "openapi-generator",
+        "openapi",
+        "php",
+        "sdk",
+        "rest",
+        "api"
+    ],
+    "homepage": "https://openapi-generator.tech",
+    "license": "unlicense",
+    "authors": [
+        {
+            "name": "OpenAPI-Generator contributors",
+            "homepage": "https://openapi-generator.tech"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*",
+        "guzzlehttp/psr7": "2.*",
+        "guzzlehttp/guzzle": "7.4.*"
+    },
+    "autoload": {
+        "psr-4": { "OpenAPI\\Client\\" : "src/" }
+    }
+}

@@ -8,9 +8,8 @@ Software architecture description
 
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+方便调用百度网盘SDK
+composer require jxx0410/xpanapi
 
 #### Instructions
 
