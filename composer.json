@@ -1,5 +1,5 @@
 {
-    "name": "jxx0410/xpanapi",
+    "name": "c4ys/baidu-openapi-xpan",
     "description": "百度网盘开放SDK",
     "keywords": [
         "openapitools",
@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^5.4",
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
