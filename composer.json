@@ -2,6 +2,8 @@
     "name": "c4ys/baidu-openapi-xpan",
     "description": "百度网盘开放SDK",
     "keywords": [
+        "baidu",
+        "百度网盘",
         "openapitools",
         "openapi-generator",
         "openapi",
